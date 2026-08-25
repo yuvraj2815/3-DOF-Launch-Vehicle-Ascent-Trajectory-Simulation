@@ -113,6 +113,3 @@ staging behaviour, and max-Q realism.
   masses/thrusts in `vehicle.py` to model a specific rocket.
 - This is a planar, flat-Earth-with-altitude-gravity model — appropriate for
   ascent analysis and trade studies, not for orbital insertion accuracy.
-
-## License
-MIT — see [LICENSE](LICENSE).
