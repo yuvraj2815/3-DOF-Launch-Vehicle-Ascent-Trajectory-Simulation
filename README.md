@@ -7,7 +7,7 @@ to machine precision. It then runs a **trade study** — sweeping the pitch-over
 angle to show how steering trades final velocity against apogee — so the tool
 answers a design question, not just draws one trajectory.
 
-![Trajectory](results/trajectory.png)
+![Trajectory](trajectory.png)
 
 ## What it models
 
