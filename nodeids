@@ -1,0 +1,9 @@
+[
+  "tests/test_trajectory.py::test_baseline_ascent_is_physical",
+  "tests/test_trajectory.py::test_gravity_decreases_with_altitude",
+  "tests/test_trajectory.py::test_liftoff_requires_twr_above_one",
+  "tests/test_trajectory.py::test_mass_is_monotonically_non_increasing_during_burn",
+  "tests/test_trajectory.py::test_rocket_equation_matches_to_machine_precision",
+  "tests/test_trajectory.py::test_sea_level_atmosphere",
+  "tests/test_trajectory.py::test_two_separation_events_recorded"
+]
